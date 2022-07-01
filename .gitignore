@@ -133,3 +133,4 @@ dmypy.json
 **.csv
 **.mp4
 **.png
+**.pkl
