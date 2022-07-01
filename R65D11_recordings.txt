@@ -1,0 +1,8 @@
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial001
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial002
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial003
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial004
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial005
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial006
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial007
+/mnt/data2/FA/dataverse/R65D11_GAL4/Fly1/R65D11_trial008

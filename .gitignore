@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore output
+**.pdf
+**.csv
+**.mp4
+**.png
